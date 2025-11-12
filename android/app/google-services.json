@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860310823445",
+    "project_id": "talkzy-chat-app-8d8e5",
+    "storage_bucket": "talkzy-chat-app-8d8e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860310823445:android:5a67c1ff51b709d6bc641c",
+        "android_client_info": {
+          "package_name": "com.example.talkzy_beta1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5V1wg4xJSNo3S63QB3dn-VHHWC1YQeNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
