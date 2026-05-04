@@ -2,10 +2,14 @@
 
 Talkzy is a Flutter-based real-time chat application built with Firebase. It includes user authentication, friend requests, one-to-one messaging, notifications, profile management, privacy settings, and theme customization.
 
-<img width="720" height="1600" alt="home page" src="https://github.com/user-attachments/assets/6c51bd39-fabf-4ae9-9027-51a507cec050" />
+## Screenshots
 
-<img width="1080" height="2400" alt="chat page 1" src="https://github.com/user-attachments/assets/8dbc58b4-7b0b-4062-878e-1f8371dc5704" />
-<img width="720" height="1612" alt="chat page 2" src="https://github.com/user-attachments/assets/6271f301-caf2-4192-9672-4d6a5673349a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c51bd39-fabf-4ae9-9027-51a507cec050" width="260" alt="Talkzy home page" />
+  <img src="https://github.com/user-attachments/assets/8dbc58b4-7b0b-4062-878e-1f8371dc5704" width="260" alt="Talkzy chat page" />
+  <img src="https://github.com/user-attachments/assets/6271f301-caf2-4192-9672-4d6a5673349a" width="260" alt="Talkzy chat conversation page" />
+</p>
+
 
 
 
