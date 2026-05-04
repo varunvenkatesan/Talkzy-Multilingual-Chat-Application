@@ -6,7 +6,7 @@ import 'package:translator/translator.dart';
 class TranslationService {
   // ⚠️ SECURITY WARNING: This API key is exposed. Please secure it properly!
   // NOTE: This key should be secured in a real application.
-  static const String _apiKey = 'AIzaSyBbRSbC0gSqwbS7OioIDOqNW_3Tp-H7_co';
+  static const String _apiKey = 'ADD YOUR API KEY';
 
   // Cache for translated texts to avoid repeated API calls
   static final Map<String, String> _translationCache = {};
