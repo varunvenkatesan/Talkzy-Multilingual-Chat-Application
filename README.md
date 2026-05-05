@@ -1,4 +1,4 @@
-# Talkzy
+# Talkzy (Multilingual Chat Application)
 
 Talkzy is a Flutter-based real-time multilingual chat application built with Firebase. It includes user authentication, friend requests, one-to-one messaging, message translation, notifications, profile management, privacy settings, and theme customization.
 
